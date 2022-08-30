@@ -6,6 +6,10 @@ body {
     display: none;
 }
 
+button {
+    cursor: pointer;
+}
+
 .burger {
     display: flex;
     padding-right: 20px;
@@ -129,7 +133,7 @@ span {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../../img/page1color.png");
+    background: linear-gradient(39.97deg, #EF2779 0.79%, #7834BE 79.29%);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center 100%;
@@ -742,7 +746,7 @@ header {
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-image: url("../../img/page1color.png");
+        /*background-image: url("../../img/page1color.png");*/
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center 100%;
@@ -963,7 +967,6 @@ header {
         display: flex;
         flex-direction: column;
         align-items: center;
-        background-image: url("../../img/page1color.png");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center 100%;
@@ -1468,7 +1471,6 @@ header {
             display: flex;
             flex-direction: column;
             align-items: center;
-            background-image: url("../../img/page1color.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center 100%;
