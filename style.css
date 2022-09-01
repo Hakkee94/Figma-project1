@@ -225,6 +225,7 @@ header {
 
 .tip {
     display: flex;
+    align-items: center;
 }
 
 .e-mail-form input {
