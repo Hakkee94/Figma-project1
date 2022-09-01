@@ -13,6 +13,7 @@ button {
 .burger {
     display: flex;
     padding-right: 20px;
+    cursor: pointer;
 }
 
 h1 {
@@ -29,10 +30,14 @@ h1 {
     padding-top: 20px;
 }
 
+.figma-logo {
+    cursor: pointer;
+}
+
 .first-picture {
     display: flex;
     justify-content: center;
-    height: 195px;
+    /*height: 195px;*/
 }
 
 .first-article {
@@ -46,7 +51,8 @@ h1 {
 
 .image1 {
     Width: 378.88px;
-    Height: 194.96px;
+    Height: 240.96px;
+
 }
 
 h2 {
